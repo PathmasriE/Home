@@ -1,0 +1,73 @@
+body
+{
+	background-color : SkyBlue;
+}
+
+h1
+{   background-color: white;
+    text-align: center;
+    color: LightSlateGrey;
+	font-size: 30pt;
+	font-family: Comic Sans Ms, cursive;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+/*  all headings except h1 are SteelBlue */
+h2
+{   text-align: center;
+    background-color: SteelBlue;
+    color: white;
+	font-size: 25pt;
+	font-family: Comic Sans Ms, cursive;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+h3
+{   text-align: center;
+    color: SteelBlue;
+	font-size: 20pt;
+	font-family: Comic Sans Ms, cursive;
+}
+
+/* make paragraphs and lists white */
+p
+{	
+    text-align: center;
+	color: white;
+	font-size: 13pt;
+    font-family: Comic Sans Ms, cursive;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+ul
+{   
+    text-align: center;
+    color: white;
+	font-size: 13pt;
+    font-family: Comic Sans Ms, cursive;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+
+ol
+{
+	text-align: center;
+    color: white;
+	font-size: 15pt;
+    font-family: Comic Sans Ms, cursive;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+img
+{
+	border-width: medium; 
+	border-color: white;
+	border-style: solid;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+	
